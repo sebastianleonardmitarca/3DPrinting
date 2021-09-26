@@ -3,7 +3,7 @@
     Develop by Mitarca Sebastian-Leonard (CobotTeam)
     
     07 Sept 2021 - Second Version
-    Fist version location: '\\\\vt1.vitesco.com\\SMT\\didt1083\\Public\\3D Printing\\3D Printing Python'
+    Fist version location: '...\\3D Printing\\3D Printing Python'
   
     ###    ###   ##  ######## 
     ####  ####   ##    ##
