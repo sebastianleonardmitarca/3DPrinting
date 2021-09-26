@@ -19,12 +19,12 @@ import os, sys, re, datetime, time, csv, os.path
 import shutil
 
 #Global Location Variables
-code_location = '\\\\vt1.vitesco.com\\SMT\\didt1083\\Public\\3D Printing\\3D Printing Python\\gcode or sl1 files'
-processed_location = '\\\\vt1.vitesco.com\\SMT\\didt1083\\Public\\3D Printing\\3D Printing Python\\Processed'
-logs_location = '\\\\vt1.vitesco.com\\SMT\\didt1083\\Public\\3D Printing\\3D Printing Python\\logs.txt'
-csv_location = '\\\\vt1.vitesco.com\\SMT\\didt1083\\Public\\3D Printing\\3D Printing Python\\3DPrintingTable.csv'
-history_location = '\\\\vt1.vitesco.com\\SMT\\didt1083\\Public\\3D Printing\\3D Printing Python\\History'
-nok_location = '\\\\vt1.vitesco.com\\SMT\\didt1083\\Public\\3D Printing\\3D Printing Python\\NOK'
+code_location = '~~~~~~~~'
+processed_location = '...\\3D Printing\\3D Printing Python\\Processed'
+logs_location = '...\\3D Printing\\3D Printing Python\\logs.txt'
+csv_location = '...\\3D Printing\\3D Printing Python\\3DPrintingTable.csv'
+history_location = '...\\3D Printing\\3D Printing Python\\History'
+nok_location = '...\\3D Printing\\3D Printing Python\\NOK'
 
 #write in logs file
 def writeInLogs(message):
